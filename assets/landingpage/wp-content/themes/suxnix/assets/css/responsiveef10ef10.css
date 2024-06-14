@@ -712,9 +712,7 @@
 .banner-content {
 	margin: 0 0 55px;
 }
-.banner-images .bg-shape {
-	display: none;
-}
+
 .banner-images .main-img {
 	max-width: 100%;
 	position: unset;
